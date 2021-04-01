@@ -1,0 +1,2 @@
+components folder chứa các stateless component (hay còn gọi là dumb component, presentation component), 
+là các component mà không xài state, chỉ dùng để render mấy cái HTML, JSX, để trình bày (render) giao diện dù cho nó có là class component hay functional component

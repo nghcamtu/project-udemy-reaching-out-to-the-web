@@ -1,0 +1,4 @@
+containers chứa các stateful components,
+tức là những component tạo bởi class component hoặc functional component mà có dùng state (manage state).
+
+

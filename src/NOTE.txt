@@ -1,0 +1,2 @@
+Do bài này sử dụng code giao diện có sẵn,  hình dùng react script ver 1 (hoặc là eject cái webpack xong build lại)
+nên là nó xài được cả luôn tên file là .css chứ ko xài .module.css như mọi khi xài
